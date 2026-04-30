@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\TDV3D-3\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3826502E-C99D-4A7B-B78F-79A1C4FB7E52}|Semana4-Ejercicio1\\Semana4-Ejercicio1.csproj|d:\\github\\tdv3d-3\\semana4-ejercicio1\\semana4-ejercicio1\\semana4-ejercicio1\\semana4-ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3826502E-C99D-4A7B-B78F-79A1C4FB7E52}|Semana4-Ejercicio1\\Semana4-Ejercicio1.csproj|solutionrelative:semana4-ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\TDV3D-3\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Semana4-Ejercicio1\\Program.cs",
+              "ToolTip": "D:\\GitHub\\TDV3D-3\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Semana4-Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Semana4-Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:04:30.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
